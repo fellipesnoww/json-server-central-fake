@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "diogo.hglima@gmail.com",
+      "password": "$2a$10$3SII/1oxz751MLVrtA8JUOGawb1U1sA.rl/lXwd0CpSZAYdknHSYK",
+      "id": 1
+    },
+    {
+      "email": "fellipeneves@interfocus.com.br",
+      "password": "$2a$10$R1tezSc8yxJa6caLF2Zv.eIeYzYRanNsft5EE/nAcIb18a4HCSifi",
+      "id": 2
+    }
+  ],
+  "contratos": []
+}

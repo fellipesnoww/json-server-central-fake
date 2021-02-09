@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "json-server-auth": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "api-fake-central",
+  "version": "1.0.0",
+  "description": "Api Fake Central Assinante",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fellipesnoww/json-server-central-fake.git"
+  },
+  "keywords": [
+    "JSON",
+    "SERVER",
+    "NODE",
+    "API",
+    "API",
+    "FAKE"
+  ],
+  "author": "Fellipe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fellipesnoww/json-server-central-fake/issues"
+  },
+  "homepage": "https://github.com/fellipesnoww/json-server-central-fake#readme"
+}
