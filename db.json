@@ -6,7 +6,27 @@
       "id": 1
     },
     {
+      "nome": "Fellipe Neves",
       "email": "fellipeneves@interfocus.com.br",
+      "cpf": "123.123.123-12",
+      "dataNasc": "16/10/1997",
+      "endereco":{
+        "logradouro": "Rua Abilio de Lima",
+        "numero": 46
+      },
+      "nomeMae": "Mae",
+      "autenticacoes":[{
+        "id": 1,
+        "descricao": "ANO NASCIMENTO"
+      },
+      {
+        "id":2,
+        "descricao": "NOME MAE"
+      },
+      {
+        "id":3,
+        "descricao": "NUMERO ENDERECO"
+      }], 
       "password": "$2a$10$R1tezSc8yxJa6caLF2Zv.eIeYzYRanNsft5EE/nAcIb18a4HCSifi",
       "id": 2
     }
