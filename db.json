@@ -29,9 +29,102 @@
           "descricao": "NUMERO ENDERECO"
         }
       ],
-      "password": "$2a$10$vr5e8FqK4.V.8iJfKec33.5EySQto8IQm4/naYna/nH53Pqpc43Ka",
+      "password": "$2a$10$qSDkAArNxknKBCllVbLcp.cFJVpV6Pj/Toc108zphEGYuGjfWH8Tu",
       "id": 2
     }
   ],
-  "contratos": []
+  "contratos": [
+    {
+      "id": 1,
+      "numeroContrato": 111,
+      "endereco": "Rua Abilio de Lima, 46",
+      "bairro": "Maraca 2",
+      "municipio": "Marilia",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Ativo"
+      },
+      "cpfCpnj": "123.123.123-12"
+    },
+    {
+      "id": 2,
+      "numeroContrato": 222,
+      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "bairro": "Centro",
+      "municipio": "Lupercio",
+      "situacao": {
+        "codigo": 5,
+        "descricao": "Cancelado"
+      },
+      "cpfCpnj": "123.123.123-12"      
+    },
+    {
+      "id": 3,
+      "numeroContrato": 222,
+      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "bairro": "Centro",
+      "municipio": "Lupercio",
+      "situacao": {
+        "codigo": 5,
+        "descricao": "Cancelado"
+      },
+      "cpfCpnj": "123.123.123-12"      
+    },{
+      "id": 4,
+      "numeroContrato": 222,
+      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "bairro": "Centro",
+      "municipio": "Lupercio",
+      "situacao": {
+        "codigo": 5,
+        "descricao": "Cancelado"
+      },
+      "cpfCpnj": "123.123.123-12"      
+    },{
+      "id": 5,
+      "numeroContrato": 222,
+      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "bairro": "Centro",
+      "municipio": "Lupercio",
+      "situacao": {
+        "codigo": 5,
+        "descricao": "Cancelado"
+      },
+      "cpfCpnj": "123.123.123-12"      
+    },{
+      "id": 6,
+      "numeroContrato": 222,
+      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "bairro": "Centro",
+      "municipio": "Lupercio",
+      "situacao": {
+        "codigo": 5,
+        "descricao": "Cancelado"
+      },
+      "cpfCpnj": "123.123.123-12"      
+    },{
+      "id": 7,
+      "numeroContrato": 222,
+      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "bairro": "Centro",
+      "municipio": "Lupercio",
+      "situacao": {
+        "codigo": 5,
+        "descricao": "Cancelado"
+      },
+      "cpfCpnj": "123.123.123-12"      
+    },
+    {
+      "id": 8,
+      "numeroContrato": 33,
+      "endereco": "Avenida Iraci Fagundes Botino, 70",
+      "bairro": "Centro",
+      "municipio": "Lupercio",
+      "situacao": {
+        "codigo": 5,
+        "descricao": "Cancelado"
+      },
+      "cpfCpnj": "111.111.111-11"
+    }
+  ]
 }
