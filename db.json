@@ -39,92 +39,92 @@
       "numeroContrato": 111,
       "endereco": "Rua Abilio de Lima, 46",
       "bairro": "Maraca 2",
-      "municipio": "Marilia",
+      "municipio": "Marilia - SP",
       "situacao": {
         "codigo": 1,
         "descricao": "Ativo"
       },
-      "cpfCpnj": "123.123.123-12"
+      "cpfCnpj": "123.123.123-12"
     },
     {
       "id": 2,
       "numeroContrato": 222,
       "endereco": "Avenida Iraci Fagundes Botino, 74",
       "bairro": "Centro",
-      "municipio": "Lupercio",
+      "municipio": "Lupercio - SP",
       "situacao": {
         "codigo": 5,
         "descricao": "Cancelado"
       },
-      "cpfCpnj": "123.123.123-12"      
+      "cpfCnpj": "123.123.123-12"      
     },
     {
       "id": 3,
-      "numeroContrato": 222,
-      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "numeroContrato": 333,
+      "endereco": "Rua Guilherme Grandizoli, 123",
       "bairro": "Centro",
-      "municipio": "Lupercio",
+      "municipio": "Lupercio - SP",
       "situacao": {
-        "codigo": 5,
-        "descricao": "Cancelado"
+        "codigo": 1,
+        "descricao": "Ativo"
       },
-      "cpfCpnj": "123.123.123-12"      
+      "cpfCnpj": "123.123.123-12"      
     },{
       "id": 4,
-      "numeroContrato": 222,
-      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "numeroContrato": 444,
+      "endereco": "Rua Manoel Quito, 90",
       "bairro": "Centro",
-      "municipio": "Lupercio",
+      "municipio": "Lupercio - SP",
       "situacao": {
         "codigo": 5,
         "descricao": "Cancelado"
       },
-      "cpfCpnj": "123.123.123-12"      
+      "cpfCnpj": "123.123.123-12"      
     },{
       "id": 5,
-      "numeroContrato": 222,
-      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "numeroContrato": 555,
+      "endereco": "Rua José Quito, 999",
       "bairro": "Centro",
-      "municipio": "Lupercio",
+      "municipio": "Lupercio - SP",
       "situacao": {
-        "codigo": 5,
-        "descricao": "Cancelado"
+        "codigo": 1,
+        "descricao": "Ativo"
       },
-      "cpfCpnj": "123.123.123-12"      
+      "cpfCnpj": "111.111.111-11"      
     },{
       "id": 6,
-      "numeroContrato": 222,
-      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "numeroContrato": 666,
+      "endereco": "Avenida Santo Inacio, 100",
       "bairro": "Centro",
-      "municipio": "Lupercio",
+      "municipio": "Lupercio - SP",
       "situacao": {
         "codigo": 5,
         "descricao": "Cancelado"
       },
-      "cpfCpnj": "123.123.123-12"      
+      "cpfCnpj": "111.111.111-11"      
     },{
       "id": 7,
-      "numeroContrato": 222,
-      "endereco": "Avenida Iraci Fagundes Botino, 74",
+      "numeroContrato": 777,
+      "endereco": "Rua Evaristo Rabelo, 588",
       "bairro": "Centro",
-      "municipio": "Lupercio",
+      "municipio": "Lupercio - SP",
       "situacao": {
-        "codigo": 5,
-        "descricao": "Cancelado"
+        "codigo": 1,
+        "descricao": "Ativo"
       },
-      "cpfCpnj": "123.123.123-12"      
+      "cpfCnpj": "111.111.111-11"      
     },
     {
       "id": 8,
-      "numeroContrato": 33,
+      "numeroContrato": 888,
       "endereco": "Avenida Iraci Fagundes Botino, 70",
       "bairro": "Centro",
-      "municipio": "Lupercio",
+      "municipio": "Lupercio - SP",
       "situacao": {
         "codigo": 5,
         "descricao": "Cancelado"
       },
-      "cpfCpnj": "111.111.111-11"
+      "cpfCnpj": "111.111.111-11"
     }
   ]
 }
