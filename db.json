@@ -126,5 +126,139 @@
       },
       "cpfCnpj": "111.111.111-11"
     }
+  ],
+  "faturas":[
+    {
+      "id":1,
+      "contrato": 111,
+      "mesReferencia": "Janeiro",
+      "valor": "11.11",
+      "vencimento": "30/01/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":2,
+      "contrato": 111,
+      "mesReferencia": "Fevereiro",
+      "valor": "22.22",
+      "vencimento": "23/02/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":3,
+      "contrato": 111,
+      "mesReferencia": "Março",
+      "valor": "33.3",
+      "vencimento": "30/03/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":4,
+      "contrato": 111,
+      "mesReferencia": "Abril",
+      "valor": "44.44",
+      "vencimento": "30/04/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":5,
+      "contrato": 111,
+      "mesReferencia": "Maio",
+      "valor": "55.55",
+      "vencimento": "30/05/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":6,
+      "contrato": 111,
+      "mesReferencia": "Junho",
+      "valor": "66.66",
+      "vencimento": "30/06/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":7,
+      "contrato": 111,
+      "mesReferencia": "Julho",
+      "valor": "77.77",
+      "vencimento": "30/07/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":8,
+      "contrato": 111,
+      "mesReferencia": "Agosto",
+      "valor": "88.88",
+      "vencimento": "30/08/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":9,
+      "contrato": 111,
+      "mesReferencia": "Setembro",
+      "valor": "99.99",
+      "vencimento": "30/09/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":10,
+      "contrato": 111,
+      "mesReferencia": "Outubro",
+      "valor": "110.10",
+      "vencimento": "30/10/2020",
+      "situacao": {
+        "codigo": 1,
+        "descricao": "Paga"
+      }
+    },
+    {
+      "id":11,
+      "contrato": 111,
+      "mesReferencia": "Novembro",
+      "valor": "111.11",
+      "vencimento": "30/11/2020",
+      "situacao": {
+        "codigo": 2,
+        "descricao": "Vencida"
+      }
+    },
+    {
+      "id":12,
+      "contrato": 111,
+      "mesReferencia": "Dezembro",
+      "valor": "121.12",
+      "vencimento": "30/12/2020",
+      "situacao": {
+        "codigo": 3,
+        "descricao": "Aguardando Pagamento"
+      }
+    }
   ]
 }
