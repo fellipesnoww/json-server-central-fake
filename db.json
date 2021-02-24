@@ -170,6 +170,10 @@
       "situacao": {
         "codigo": 1,
         "descricao": "Paga"
+      },
+      "formaPagamento": {
+        "codigo": 1,
+        "descricao": "Cartão de Crédito"
       }
     },
     {
@@ -258,6 +262,51 @@
       "situacao": {
         "codigo": 3,
         "descricao": "Aguardando Pagamento"
+      },      
+      "detalhes":{              
+        "pacotes": [
+          {
+            "id": 1,
+            "nomePacote": "100 Megas",
+            "valor": "100,00",
+            "tipoPacote":{
+              "codigo": 1,
+              "descricao": "Internet"
+            }
+          },
+          {
+            "id": 2,
+            "nomePacote": "TV Plus",
+            "valor": "60,00",
+            "tipoPacote":{
+              "codigo": 2,
+              "descricao": "TV"
+            }
+          },
+          {
+            "id": 3,
+            "nomePacote": "HBO GO",
+            "valor": "4,98",
+            "tipoPacote":{
+              "codigo": 2,
+              "descricao": "TV"
+            }
+          }
+        ],    
+        "servicos": [
+          {
+            "id": 1,
+            "descricao": "Ponto Adicional",
+            "valor": "2,98"
+          }
+        ],
+        "lancamentos": [
+          {
+            "id": 1,
+            "descricao": "Multa",
+            "valor": "15,00"
+          }
+        ]
       }
     }
   ]
