@@ -29,7 +29,7 @@
           "descricao": "NUMERO ENDERECO"
         }
       ],
-      "password": "$2a$10$qSDkAArNxknKBCllVbLcp.cFJVpV6Pj/Toc108zphEGYuGjfWH8Tu",
+      "password": "$2a$10$/NUlE5KXtK.VLruInl2tq.l4jf735fzD75EJ3.LdAQvWSTKLbl2O6",
       "id": 2
     }
   ],
@@ -56,7 +56,7 @@
         "codigo": 5,
         "descricao": "Cancelado"
       },
-      "cpfCnpj": "123.123.123-12"      
+      "cpfCnpj": "123.123.123-12"
     },
     {
       "id": 3,
@@ -68,8 +68,9 @@
         "codigo": 1,
         "descricao": "Ativo"
       },
-      "cpfCnpj": "123.123.123-12"      
-    },{
+      "cpfCnpj": "123.123.123-12"
+    },
+    {
       "id": 4,
       "numeroContrato": 444,
       "endereco": "Rua Manoel Quito, 90",
@@ -79,8 +80,9 @@
         "codigo": 5,
         "descricao": "Cancelado"
       },
-      "cpfCnpj": "123.123.123-12"      
-    },{
+      "cpfCnpj": "123.123.123-12"
+    },
+    {
       "id": 5,
       "numeroContrato": 555,
       "endereco": "Rua José Quito, 999",
@@ -90,8 +92,9 @@
         "codigo": 1,
         "descricao": "Ativo"
       },
-      "cpfCnpj": "111.111.111-11"      
-    },{
+      "cpfCnpj": "111.111.111-11"
+    },
+    {
       "id": 6,
       "numeroContrato": 666,
       "endereco": "Avenida Santo Inacio, 100",
@@ -101,8 +104,9 @@
         "codigo": 5,
         "descricao": "Cancelado"
       },
-      "cpfCnpj": "111.111.111-11"      
-    },{
+      "cpfCnpj": "111.111.111-11"
+    },
+    {
       "id": 7,
       "numeroContrato": 777,
       "endereco": "Rua Evaristo Rabelo, 588",
@@ -112,7 +116,7 @@
         "codigo": 1,
         "descricao": "Ativo"
       },
-      "cpfCnpj": "111.111.111-11"      
+      "cpfCnpj": "111.111.111-11"
     },
     {
       "id": 8,
@@ -127,9 +131,9 @@
       "cpfCnpj": "111.111.111-11"
     }
   ],
-  "faturas":[
+  "faturas": [
     {
-      "id":1,
+      "id": 1,
       "contrato": 111,
       "mesReferencia": "Janeiro",
       "valor": "11.11",
@@ -140,7 +144,7 @@
       }
     },
     {
-      "id":2,
+      "id": 2,
       "contrato": 111,
       "mesReferencia": "Fevereiro",
       "valor": "22.22",
@@ -151,7 +155,7 @@
       }
     },
     {
-      "id":3,
+      "id": 3,
       "contrato": 111,
       "mesReferencia": "Março",
       "valor": "33.3",
@@ -162,7 +166,7 @@
       }
     },
     {
-      "id":4,
+      "id": 4,
       "contrato": 111,
       "mesReferencia": "Abril",
       "valor": "44.44",
@@ -177,7 +181,7 @@
       }
     },
     {
-      "id":5,
+      "id": 5,
       "contrato": 111,
       "mesReferencia": "Maio",
       "valor": "55.55",
@@ -188,7 +192,7 @@
       }
     },
     {
-      "id":6,
+      "id": 6,
       "contrato": 111,
       "mesReferencia": "Junho",
       "valor": "66.66",
@@ -199,7 +203,7 @@
       }
     },
     {
-      "id":7,
+      "id": 7,
       "contrato": 111,
       "mesReferencia": "Julho",
       "valor": "77.77",
@@ -210,7 +214,7 @@
       }
     },
     {
-      "id":8,
+      "id": 8,
       "contrato": 111,
       "mesReferencia": "Agosto",
       "valor": "88.88",
@@ -221,7 +225,7 @@
       }
     },
     {
-      "id":9,
+      "id": 9,
       "contrato": 111,
       "mesReferencia": "Setembro",
       "valor": "99.99",
@@ -232,7 +236,7 @@
       }
     },
     {
-      "id":10,
+      "id": 10,
       "contrato": 111,
       "mesReferencia": "Outubro",
       "valor": "110.10",
@@ -243,7 +247,7 @@
       }
     },
     {
-      "id":11,
+      "id": 11,
       "contrato": 111,
       "mesReferencia": "Novembro",
       "valor": "111.11",
@@ -254,7 +258,7 @@
       }
     },
     {
-      "id":12,
+      "id": 12,
       "contrato": 111,
       "mesReferencia": "Dezembro",
       "valor": "121.12",
@@ -262,14 +266,14 @@
       "situacao": {
         "codigo": 3,
         "descricao": "Aguardando Pagamento"
-      },      
-      "detalhes":{              
+      },
+      "detalhes": {
         "pacotes": [
           {
             "id": 1,
             "nomePacote": "100 Megas",
             "valor": "100,00",
-            "tipoPacote":{
+            "tipoPacote": {
               "codigo": 1,
               "descricao": "Internet"
             }
@@ -278,7 +282,7 @@
             "id": 2,
             "nomePacote": "TV Plus",
             "valor": "60,00",
-            "tipoPacote":{
+            "tipoPacote": {
               "codigo": 2,
               "descricao": "TV"
             }
@@ -287,12 +291,12 @@
             "id": 3,
             "nomePacote": "HBO GO",
             "valor": "4,98",
-            "tipoPacote":{
-              "codigo": 2,
-              "descricao": "TV"
+            "tipoPacote": {
+              "codigo": 3,
+              "descricao": "PLAY"
             }
           }
-        ],    
+        ],
         "servicos": [
           {
             "id": 1,
